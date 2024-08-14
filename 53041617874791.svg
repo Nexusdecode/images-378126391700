@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Primary_Lockup_Light_Registered_"
+   data-name="Primary Lockup (Light Registered)"
+   viewBox="0 0 1900 315.41"
+   version="1.1"
+   sodipodi:docname="Lacework.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview71"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.55684211"
+     inkscape:cx="949.10208"
+     inkscape:cy="158.03403"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Primary_Lockup_Light_Registered_" />
+  <defs
+     id="defs39">
+    <style
+       id="style2">.cls-1{fill:url(#Lacework_Coral_Gradient_RGB);}.cls-2{fill:url(#Lacework_Blue_Gradient_RGB);}.cls-3{fill:url(#Lacework_Teal_Gradient_RGB);}.cls-4{fill:#fff;}</style>
+    <linearGradient
+       id="Lacework_Coral_Gradient_RGB"
+       x1="-37.72"
+       y1="8.1"
+       x2="33.69"
+       y2="131.8"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#01023b"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#ff646c"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="Lacework_Blue_Gradient_RGB"
+       x1="309.12"
+       y1="36.3"
+       x2="241.14"
+       y2="154.05"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#01023b"
+         id="stop9" />
+      <stop
+         offset="0.24"
+         stop-color="#071573"
+         id="stop11" />
+      <stop
+         offset="0.49"
+         stop-color="#0d27aa"
+         id="stop13" />
+      <stop
+         offset="0.72"
+         stop-color="#1135d2"
+         id="stop15" />
+      <stop
+         offset="0.89"
+         stop-color="#143dea"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#1540f3"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="Lacework_Teal_Gradient_RGB"
+       y1="27.57"
+       x2="287.68"
+       y2="27.57"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.2"
+         stop-color="#00f8f8"
+         id="stop22" />
+      <stop
+         offset="0.3"
+         stop-color="#00f4f8"
+         id="stop24" />
+      <stop
+         offset="0.4"
+         stop-color="#02e7f8"
+         id="stop26" />
+      <stop
+         offset="0.51"
+         stop-color="#04d3f7"
+         id="stop28" />
+      <stop
+         offset="0.61"
+         stop-color="#08b6f6"
+         id="stop30" />
+      <stop
+         offset="0.72"
+         stop-color="#0c90f5"
+         id="stop32" />
+      <stop
+         offset="0.83"
+         stop-color="#1163f4"
+         id="stop34" />
+      <stop
+         offset="0.9"
+         stop-color="#1540f3"
+         id="stop36" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g974">
+    <g
+       id="Shield">
+      <path
+         class="cls-1"
+         d="M 143.84,315.41 C 143.84,315.41 0,284.06 0,143.45 V 0 l 57.16,55.15 v 88.3 c 0,83.6 86.68,112 86.68,112 z"
+         id="path41"
+         style="fill:url(#Lacework_Coral_Gradient_RGB)" />
+      <path
+         class="cls-2"
+         d="m 143.84,315.41 c 0,0 143.84,-31.35 143.84,-172 V 0 l -57.15,55.15 v 88.3 c 0,83.6 -86.69,112 -86.69,112 z"
+         id="path43"
+         style="fill:url(#Lacework_Blue_Gradient_RGB)" />
+      <polygon
+         class="cls-3"
+         points="57.16,55.15 0,0 287.68,0 230.53,55.15 "
+         id="polygon45"
+         style="fill:url(#Lacework_Teal_Gradient_RGB)" />
+    </g>
+    <g
+       id="Wordmark"
+       style="fill:#01023b;fill-opacity:1">
+      <g
+         id="Wordmark-2"
+         data-name="Wordmark"
+         style="fill:#01023b;fill-opacity:1">
+        <path
+           class="cls-4"
+           d="m 853.54,178.84 -0.1,0.71 c -4.55,32.29 -26.12,50.08 -60.75,50.08 -41.86,0 -68.9,-29.57 -68.9,-75.34 0,-45.77 27.04,-75.29 68.9,-75.29 33,0 54.24,16.83 58.4,46.16 l 0.1,0.71 H 883 l -0.1,-0.92 c -2.25,-20.26 -11.17,-38.6 -25.13,-51.64 -16.06,-15 -38.56,-23 -65.08,-23 -60.13,0 -100.53,41.79 -100.53,104 0,62.21 40.4,104 100.53,104 38.73,0 86.18,-20.56 92.42,-78.51 l 0.1,-0.92 z"
+           id="path48"
+           style="fill:#01023b;fill-opacity:1" />
+        <polygon
+           class="cls-4"
+           points="1030.72,136.8 942.91,136.8 942.91,83.89 1040.18,83.89 1040.18,55.24 911.55,55.24 911.55,255.1 1041.53,255.1 1041.53,226.46 942.91,226.46 942.91,165.43 1030.72,165.43 "
+           id="polygon50"
+           style="fill:#01023b;fill-opacity:1" />
+        <polygon
+           class="cls-4"
+           points="506.94,255 385.07,255 385.07,55.15 416.43,55.15 416.43,226.36 506.94,226.36 "
+           id="polygon52"
+           style="fill:#01023b;fill-opacity:1" />
+        <polygon
+           class="cls-4"
+           points="1270.53,55.24 1239.13,223.52 1207.45,55.24 1157.6,55.24 1125.92,223.52 1094.54,55.24 1063.9,55.24 1063.95,63.85 1100.59,255.1 1150.72,255.1 1182.47,85.78 1214.34,255.1 1264.47,255.1 1301.16,63.34 1301.16,55.24 "
+           id="polygon54"
+           style="fill:#01023b;fill-opacity:1" />
+        <path
+           class="cls-4"
+           d="m 1413.13,50.31 c -61.74,0 -103.22,41.79 -103.22,104 0,62.21 41.48,104 103.22,104 61.74,0 103.22,-41.79 103.22,-104 0,-62.21 -41.48,-104 -103.22,-104 z m 71.59,104 c 0,45.22 -28.77,75.61 -71.59,75.61 -44.15,0 -71.59,-29 -71.59,-75.61 0,-46.61 27.44,-75.61 71.59,-75.61 42.87,-0.02 71.59,30.37 71.59,75.59 z"
+           id="path56"
+           style="fill:#01023b;fill-opacity:1" />
+        <polygon
+           class="cls-4"
+           points="1857.25,55.24 1833.35,55.24 1740,143.48 1740,55.24 1708.65,55.24 1708.65,255.1 1740,255.1 1740,184.84 1763.32,163.2 1835.67,255.1 1857.25,255.1 1857.25,233.9 1785.69,142.34 1857.25,75.83 "
+           id="polygon58"
+           style="fill:#01023b;fill-opacity:1" />
+        <path
+           class="cls-4"
+           d="m 1640.2,171.9 c 27.73,-6.62 43.65,-27.3 43.75,-56.89 0.11,-37.21 -24.07,-59.49 -64.68,-59.62 l -80,-0.24 -0.6,199.85 31.36,0.1 0.25,-81 35.32,0.12 52.4,80.88 h 25.63 l 0.06,-21.2 c 0,0 -43.56,-61.98 -43.49,-62 z m -69.65,-88.72 45.93,0.14 c 24.7,0.08 36.17,9.89 36.11,30.89 -0.06,21 -11.59,30.79 -36.29,30.67 l -45.94,-0.14 z"
+           id="path60"
+           style="fill:#01023b;fill-opacity:1" />
+        <path
+           class="cls-4"
+           d="M 629.82,55.15 H 585.27 L 528.81,240.24 V 255 h 28.61 l 17.84,-59.95 h 64.57 L 657.67,255 h 28.68 v -14.76 z m -46,110.48 23.56,-79.88 23.78,79.88 z"
+           id="path62"
+           style="fill:#01023b;fill-opacity:1" />
+      </g>
+      <g
+         id="Registered"
+         style="fill:#01023b;fill-opacity:1">
+        <path
+           class="cls-4"
+           d="m 1889,255.1 a 11.08,11.08 0 1 1 11,-11.1 11.08,11.08 0 0 1 -11,11.1 z m 0,-21.21 A 10.12,10.12 0 1 0 1899.06,244 10.14,10.14 0 0 0 1889,233.89 Z m -5,3.52 h 6.5 a 4,4 0 0 1 3.87,4 3.79,3.79 0 0 1 -2.21,3.55 c -0.09,0 -0.09,0.16 -0.06,0.22 l 2.39,5.28 a 0.12,0.12 0 0 1 -0.12,0.19 h -1.48 a 0.35,0.35 0 0 1 -0.32,-0.16 l -2.17,-5 a 0.21,0.21 0 0 0 -0.22,-0.12 h -4.46 a 0.08,0.08 0 0 0 -0.09,0.09 v 5 a 0.15,0.15 0 0 1 -0.16,0.16 H 1884 a 0.15,0.15 0 0 1 -0.16,-0.16 v -12.9 a 0.14,0.14 0 0 1 0.16,-0.15 z m 1.79,1.6 a 0.15,0.15 0 0 0 -0.16,0.16 v 4.46 a 0.15,0.15 0 0 0 0.16,0.16 h 4.55 a 2.38,2.38 0 0 0 2.23,-2.36 2.44,2.44 0 0 0 -2.29,-2.42 z"
+           id="path65"
+           style="fill:#01023b;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
